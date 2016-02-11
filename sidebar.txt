@@ -1,14 +1,54 @@
-
-----
-~~NOCACHE~~
 **Door43**
 
-  * [[mn:home|Door43 (mn)]]
-  * [[en:license|License]]
+  * [[ne:home|Door43 (Mongolian)]]
+
+**Help**
+
+  * [[:mn:ta|translationAcademy]]
+  * [[:mn:get-started|How to Get Started]]
+  * [[:mn:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[mn:obs|Open Bible Stories (mn)]]
+  *  [[:mn:obs|Open Bible Stories]]
+      * [[:mn:obs:notes|translationNotes]]
+      * [[:mn:obs:notes:questions:home|translationQuestions]]
+      * [[:mn:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:mn:bible:intro|Bible (Mongolian)]]
+      * [[:mn:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:mn:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:mn:bible:notes:home|translationNotes]]
+      * [[:mn:bible:questions:comprehension:home|translationQuestions]]
+      * [[:mn:obe:home|translationWords]]
+  * [[:mn:ta|translationAcademy ]]
+      * [[:mn:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:mn:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:mn:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:mn:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:mn:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:mn:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:mn:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:mn:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
