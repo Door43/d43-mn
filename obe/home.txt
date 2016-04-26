@@ -1,9 +1,9 @@
-====== Complete List of Important Terms - Mongolian ======
+====== Complete List of translationWords- Mongolian ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:mn:obe:kt:home]]
-  * [[:mn:obe:other:home]]
+  * [[:mn:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:mn:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 ==== All Important Terms: ====
 
