@@ -5,6 +5,6 @@
   * [[:mn:obe:kt:home|List of the Key Terms in the OBE Directory]]
   * [[:mn:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+==== All Terms in the OBE: ====
 
 <nspages mn:obe -r -title -exclude:home -textPages="">
